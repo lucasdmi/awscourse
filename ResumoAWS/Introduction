@@ -1,0 +1,9 @@
+IAM ( Identity and Acess Manager )
+	- Root é quem detem de todos as permissões administradora
+ 	- Responsável por configurar usuários, grupos, permissões e regras de acesso
+	- Configuração de senhas com lowcase, uppercase, caracteres especiais e números, além da politica de expirar.
+	- Autenticação em 2 fatores
+
+Billing
+	- Configuração de alertas para a carteira
+	- Configuração de "limites" para o que for gasto com os serviços AWS
